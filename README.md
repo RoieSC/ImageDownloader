@@ -2,6 +2,7 @@
 A simple to use images downloader with cache management.
 
 **Usage:**
+Copy ImageDownloader folder into your project.
 
 SwiftUI
 -------
