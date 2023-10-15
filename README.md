@@ -17,4 +17,4 @@ UIKit
 asyncImageView.loadImage(urlString: String)
 asyncImageView.loadImage(urlString: String, placeholder: UIImage?, cacheValidTimeInterval: TimeInterval)
 ```
-// `placeholder` & `cacheValidTimeInterval` are optional. `cacheValidTimeInterval` default is 4 hours (SwiftUI & UIKit)
+`placeholder` & `cacheValidTimeInterval` are optional. `cacheValidTimeInterval` default is 4 hours (SwiftUI & UIKit)
